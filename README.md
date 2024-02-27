@@ -2,7 +2,7 @@
 This project consists of a Python script designed to convert coding sequences found in a GTF (Gene Transfer Format) file to protein sequences in the FASTA format. The code was developed as part of a university project for `genomic sequence analysis`.
 
 ## Overview
-The code reads a GTF file that contains genomic annotations, such as coding regions (CDS) and other genomic features. It uses the information provided in the GTF file to extract the CDS sequences, translates them into proteins using the specified genetic code, and produces a FASTA file containing the protein sequences.
+The code reads a GTF file that contains genomic annotations, such as coding regions (CDS) and other genomic features. It uses the information provided in the GTF file to extract the CDS sequences, translates them into proteins using the specified genetic code, and produces a FASTA file containing the protein sequences. You can use any GTF and FASTA file as input, the input files uploaded are here only as example.
 
 ## Main Features
 - **Extraction** of coding sequences (CDS) from a GTF file.
